@@ -72,11 +72,13 @@ java -jar target/jar-goggle-ng-2.0.0.jar
 On Windows, the shaded JAR can typically be double-clicked if `.jar` files are associated with Java.
 
 ---
+## User Guide
 
+For operating instructions, read the [User Guide](UserGuide.md).
 
+---
 
 ## Disclaimer
 
 This project is not affiliated with or endorsed by the original JarGoggle authors. It is a standalone implementation inspired by the same core idea.
 
-```
